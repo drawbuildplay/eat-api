@@ -1,0 +1,4 @@
+pyrax>=1.6.2
+requests>=2.0.1
+six>=1.4.1
+statsd>=2.0.3
